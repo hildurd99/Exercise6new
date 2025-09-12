@@ -1,2 +1,2 @@
 print("Hello")
-var = 2
+var = 3
